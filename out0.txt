@@ -1,0 +1,24 @@
+\cf2 <title>\cf2 XML Developer's Guide\cf2 </title>\cf2 \
+\cf2 <title>\cf2 Midnight Rain\cf2 </title>\cf2 \
+\cf2 <title>\cf2 Maeve Ascendant\cf2 </title>\cf2 \
+\cf2 <title>\cf2 Oberon's Legacy\cf2 </title>\cf2 \
+\cf2 <title>\cf2 The Sundered Grail\cf2 </title>\cf2 \
+\cf2 <title>\cf2 Lover Birds\cf2 </title>\cf2 \
+\cf2 <title>\cf2 Splish Splash\cf2 </title>\cf2 \
+\cf2 <title>\cf2 Creepy Crawlies\cf2 </title>\cf2 \
+\cf2 <title>\cf2 Paradox Lost\cf2 </title>\cf2 \
+\cf2 <title>\cf2 Microsoft .NET: The Programming Bible\cf2 </title>\cf2 \
+\cf2 <title>\cf2 MSXML3: A Comprehensive Guide\cf2 </title>\cf2 \
+\cf2 <title>\cf2 Visual Studio 7: A Comprehensive Guide\cf2 </title>\cf2 \
+\cf2 <author>\cf2 Gambardella, Matthew\cf2 </author>\cf2 \
+\cf2 <author>\cf2 Ralls, Kim\cf2 </author>\cf2 \
+\cf2 <author>\cf2 Corets, Eva\cf2 </author>\cf2 \
+\cf2 <author>\cf2 Corets, Eva\cf2 </author>\cf2 \
+\cf2 <author>\cf2 Corets, Eva\cf2 </author>\cf2 \
+\cf2 <author>\cf2 Randall, Cynthia\cf2 </author>\cf2 \
+\cf2 <author>\cf2 Thurman, Paula\cf2 </author>\cf2 \
+\cf2 <author>\cf2 Knorr, Stefan\cf2 </author>\cf2 \
+\cf2 <author>\cf2 Kress, Peter\cf2 </author>\cf2 \
+\cf2 <author>\cf2 O'Brien, Tim\cf2 </author>\cf2 \
+\cf2 <author>\cf2 O'Brien, Tim\cf2 </author>\cf2 \
+\cf2 <author>\cf2 Galos, Mike\cf2 </author>\cf2 \
